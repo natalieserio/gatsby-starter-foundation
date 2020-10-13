@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Hokie Lopez
-tagline: Hokie and Awesome Person
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Natalie Serio
+tagline: Urban and Regional Planning Student
+featuredImage: /assets/img_2891.jpg
 cta:
-  ctaText: Know more
+  ctaText: About Me
   ctaLink: /about
 ---
-He loves VT and the good life.
+Hi, I'm Natalie.
